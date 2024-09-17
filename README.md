@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kavindu Hansajith</h1>
 <h3 align="center">UX/UI designer | Google Certified UX designer | Content Creator</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif”>
+<img align=“right” width=“400” src=“https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif”>
+<img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="400" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansdevx&label=Profile%20views&color=0e75b6&style=flat" alt="hansdevx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansdevx" alt="hansdevx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kavi_hansajith" target="blank"><img src="https://img.shields.io/twitter/follow/kavi_hansajith?logo=twitter&style=for-the-badge" alt="kavi_hansajith" /></a> </p>
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/uxguru](https://bento.me/uxguru)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bento.me/uxguru)
 
-- 📝 I regularly write articles on [https://medium.com/@kavinduhansajith11](https://medium.com/@kavinduhansajith11)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kavinduhansajith11)
 
 - 💬 Ask me about **Figma**
 
@@ -30,7 +26,7 @@
 <a href="https://dribbble.com/kavinduhansajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kavinduhansajith" height="30" width="40" /></a>
 <a href="https://www.behance.net/kavinduhansaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kavinduhansaji" height="30" width="40" /></a>
 <a href="https://medium.com/@kavinduhansajith11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kavinduhansajith11" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uxguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uxguru" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@uxguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uxguru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
